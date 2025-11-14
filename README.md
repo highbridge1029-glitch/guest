@@ -1,7 +1,7 @@
 # Roll-a-Ball
 Modified Roll-a-Ball Unity game
 Duc Ngo – Roll-a-Ball Manual
-HOW TO PLAY
+HOW TO plays
 There are two players. Player 1 is orange and Player 2 is green.
 PLAYER 1 CONTROLS: Arrow keys on keyboard to move up, left, down,
 right. Use the spacebar to jump.
